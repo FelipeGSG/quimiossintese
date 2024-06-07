@@ -1,0 +1,16 @@
+
+.imgDescoberta{
+    border-radius: 15px;
+    filter: drop-shadow(0px 3px 4px rgba(0, 0, 0, 0.664));
+    width: 400px;
+    height: 500px;
+    transition: 0.5s;
+}
+.imgDescoberta:hover{
+    width: 415px;
+    height: 515px;
+}
+.soPraFlex{
+    display: flex;
+    gap: 40px;
+}

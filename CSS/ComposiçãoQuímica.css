@@ -1,0 +1,22 @@
+table, th, td{
+    border:1px solid;
+    border-radius: 5px;
+    border-width: 4px;
+    border-color: aliceblue;
+
+}
+table{
+    width: 70vw;
+    background: rgba(80, 95, 228, 0.247);
+    position: relative;
+}
+tr{
+    height: 6vh;
+}
+.linha1{
+    background-color: rgba(118, 37, 134, 0.61);
+}
+ul{
+    font-size: 1.4em;
+    height: 10px;
+}

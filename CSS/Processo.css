@@ -1,0 +1,10 @@
+.imgIngles{
+    width: 80vh;
+    height: 45vh;
+    border-radius: 15px;
+    transition: 0.5s;
+}
+.imgIngles:hover{
+    width: 84vh;
+    height: 47vh;
+}
